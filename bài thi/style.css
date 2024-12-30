@@ -1,0 +1,62 @@
+
+body {
+    max-width: 728px;
+    margin-right: 90px;
+
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+ 
+
+header {
+    background: #d8a56b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header .logo img {
+    max-width: 200px;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+
+main {
+    padding: 20px;
+    background: #f4f4f4;
+}
+
+main h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.tour-item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    background: #fff;
+    padding: 10px;
+    
+    
+}
+
+.tour-item img {
+    max-width: 728px;
+    margin-right: 90px;
+}
+
+.tour-item p {
+    margin: 0;
+}
+
+
+footer {
+    text-align: center;
+    background: #333;
+    color: white;
+    padding: 10px 0;
+}
